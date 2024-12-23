@@ -1,4 +1,4 @@
-package typ
+package hexago
 
 type Scalar struct {
 	IsUndefined bool

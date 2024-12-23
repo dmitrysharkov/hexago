@@ -1,4 +1,4 @@
-package typ
+package hexago
 
 type String struct {
 	Scalar

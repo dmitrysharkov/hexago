@@ -1,4 +1,4 @@
-package typ
+package hexago
 
 import (
 	"github.com/stretchr/testify/assert"
